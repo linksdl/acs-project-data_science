@@ -11,8 +11,9 @@ import chardet
 #
 # Main program
 #
-input_filename = 'YOUR FILENAME' # A file name
-read_in_chunks = False # True or False
+input_filename = 'teaching value distributions.csv' # 'teaching data type.csv' #'YOUR FILENAME' # A file name
+
+read_in_chunks = True # True or False
 confidence_level = 0.9 # 0.0 to 1.0
 result = None
 
