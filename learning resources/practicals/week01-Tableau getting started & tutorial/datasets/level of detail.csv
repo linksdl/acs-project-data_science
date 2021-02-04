@@ -1,0 +1,21 @@
+Person,Gender,Question number,Correct
+Andy,Male,1,1
+Andy,Male,2,1
+Andy,Male,3,1
+Andy,Male,4,1
+David,Male,1,1
+David,Male,2,0
+David,Male,3,1
+David,Male,4,0
+John,Male,1,0
+John,Male,2,1
+John,Male,3,1
+John,Male,4,0
+Harry,Male,1,0
+Harry,Male,2,0
+Harry,Male,3,0
+Harry,Male,4,0
+Clare,Female,1,1
+Clare,Female,2,1
+Emily,Female,1,1
+Emily,Female,2,1
