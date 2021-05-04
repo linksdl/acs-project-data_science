@@ -128,3 +128,20 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea/
+/assessments/
+learning resources/lectures - other handouts & material/Results of Introduce Yourself Survey/
+learning resources/lectures slides/08-Model fitting/
+learning resources/lectures slides/09-Evaluation/
+learning resources/lectures slides/10-Scale-up or Big data/
+learning resources/practicals/03-Data linkage practical/labs-04.png
+learning resources/practicals/03-Data linkage practical/q-1.2.3-00.png
+learning resources/practicals/03-Data linkage practical/q-1.2.3-02.png
+learning resources/practicals/data quality report demos/
+learning resources/reading lists/O'Reilly.Data Science for Business.pdf
+learning resources/reading lists/books/Data Science for Business.pdf
+learning resources/reading lists/papers/HEALTHINF2019 vds paper v3a.pdf
+learning resources/reading lists/papers/L. Zhang, A. Stoffel, M. Behrisch, S. Mittelstadt, T. Schreck, R. Pompl, ¨  S. Weber, H. Last, and D. A. Keim, Visual analytics for the big data era  - a comparative review of state-of-the-art commercial systems.pdf
+learning resources/reading lists/papers/PETMiner - A visual analysis tool for petrophysical properties of core sample data.pdf
+learning resources/reading lists/papers/QualDash - Adaptable Generation of Visualisation Dashboards for Healthcare Quality Improvement.pdf
+learning resources/reading lists/papers/QuantiCode_technical_report.pdf
+learning resources/reading lists/papers/ruddle-healthinf-2019.pdf
